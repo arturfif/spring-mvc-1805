@@ -32,8 +32,7 @@
         <module name="springMVC1805" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="springMVC1505" target="1.6" />
+    <bytecodeTargetLevel target="1.8">
       <module name="springMVC1805" target="1.7" />
     </bytecodeTargetLevel>
   </component>
